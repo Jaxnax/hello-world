@@ -1,2 +1,4 @@
 # hello-world
-Just for the sake of tutorial
+public static main(String[] args){
+  System.out.print("Hello World");
+}
